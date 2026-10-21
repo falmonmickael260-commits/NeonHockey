@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "neon-hockey-client",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "-w", "packages/client"],
+      "port": 5173
+    }
+  ]
+}
